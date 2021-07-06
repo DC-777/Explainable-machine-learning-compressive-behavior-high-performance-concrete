@@ -1,1 +1,3 @@
-# Explainable-machine-learning-compressive-behavior-high-performance-concrete
+An explainable machine learning model to predict and elucidate the compressive behavior of high-performance concrete
+
+Machine Learning (ML) has made significant progress in several fields, and materials science is no exception. ML models are popular in the materials science community, especially for predicting the compressive behavior of high-performance concrete. However, little attention has been given to enhancing the predictive capabilities and explainability of off-the-shelf ML models. Therefore, in this paper, we improve both the predictability and explainability of our ML model through pipelining, automated feature selection, cross-validated hyperparameter tuning, and a game theory approach to generate explainable insights that could lead to the development of materials with novel or substantially improved properties.
